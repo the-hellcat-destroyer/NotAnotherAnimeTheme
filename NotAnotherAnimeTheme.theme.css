@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url('image/BG.png');
+  --theme-background-image: url(https://github.com/the-hellcat-destroyer/NotAnotherAnimeTheme/blob/master/image/BG.png);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url('image/icon.jpg');
+  --home-icon-image: url(https://github.com/the-hellcat-destroyer/NotAnotherAnimeTheme/blob/master/image/icon.jpg);
 
   /*
     Change your friends icon image position
